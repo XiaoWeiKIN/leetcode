@@ -20,5 +20,6 @@ public class MaxArea {
             }
         }
         return res;
+
     }
 }
